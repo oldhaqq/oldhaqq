@@ -1,5 +1,5 @@
 - 👋 Halo saya @SetNabilObject
-- 👀 Saya inin mencoba Github
+- 👀 Saya ingin mencoba Github
 - 🌱 Saya masih pemula
 - 📫 Nosmile#8840 (On Discord)
 - Tested
