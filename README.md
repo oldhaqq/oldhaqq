@@ -1,4 +1,4 @@
-![NabilAbdulkhaq card name](https://cardivo.vercel.app/api?name=NabilAbdulkhaq%20&description=Hello%20my%20name%20is%20Nabil%20nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71818199?s=400&v=4&pattern=hideout&colorPattern=%23eaeaea&opacity=0.5&instagram=nabilabdulz&github=NabilAbdulkhaq)
+![NabilAbdulkhaq card name](https://cardivo.vercel.app/api?name=NabilAbdulkhaq%20&description=Hello%20my%20name%20is%20Nabil%20nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71818199?s=400&v=4&pattern=hideout&colorPattern=%23eaeaea&opacity=0.5&instagram=nabilabduls&github=NabilAbdulkhaq)
 
 <div align="center">
   Hello World
